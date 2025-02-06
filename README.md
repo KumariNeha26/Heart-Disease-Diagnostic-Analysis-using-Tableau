@@ -1,9 +1,7 @@
-# Green-Destinations-HR-Analytics
-This Tableau project analyzes employee attrition at Green Destinations, a travel agency experiencing a rise in workforce turnover. The HR Director seeks insights into attrition trends and key influencing factors using data-driven visualizations.
+# Heart Disease Diagnostic Analysis
+This Tableau project aims to analyze heart disease diagnostic data to identify key patterns and risk factors. By leveraging interactive visualizations, healthcare professionals can gain insights into early detection and prevention.
 
-Key Objectives:
-Determine the attrition rate (% of employees who have left).
-Analyze age, years at the company, and income to identify patterns affecting attrition.
-Provide interactive dashboards for better HR decision-making.
-
-This project leverages Tableau's visual analytics to help HR understand and reduce attrition, improving employee retention strategies.
+Objectives:
+Identify key factors influencing heart disease diagnosis.
+Analyze patient demographics, symptoms, and medical history.
+Visualize trends to support data-driven medical decision-making.
