@@ -1,4 +1,4 @@
-# Heart Disease Diagnostic Analysis Using Tableau
+# Heart Disease Diagnostic Analysis using Tableau
 
 Overview
 This project leverages Tableau to analyze heart disease diagnostic data, identifying key risk factors and trends. By utilizing data visualization, healthcare professionals can gain insights for early detection and prevention.
